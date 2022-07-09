@@ -27,6 +27,7 @@ print(list1)
 list2=[]
 length=len(list1)
 while length > 0:
+    # add list1 to list2 using append function
     list2.append(list1[length-1])
     length = length - 1
-print('Reversed list:', list2)
+print(list2)
