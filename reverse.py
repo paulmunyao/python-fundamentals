@@ -1,6 +1,8 @@
 # Reversing a list using the reversed method
 # The output is mostly in a straightforward way going down
 # creating a list of integers
-list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
-for new in reversed(list):
- print(new)
+list1 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+# using a for loop 
+# for new in reversed(list):
+#  print(new(list))
+print(list(reversed(list1)))
