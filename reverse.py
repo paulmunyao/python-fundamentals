@@ -20,7 +20,7 @@ for new in list1:
     new_list.insert(0,new)
     print(new_list)
 
-
+# Create a new list
 list1= [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
 print('Original list:', list1)
 list2=[]
