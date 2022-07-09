@@ -8,5 +8,7 @@
 #  print(new(list))
 
 # Reversing using a for loop
-list1 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+# create a list of integers
+list1 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11] 
 print(list1)
+new_list = []
