@@ -42,6 +42,7 @@
 #Formula for converting farenheit to degrees (°F − 32) × 5/9 = °C
 # create a variable for temperature input
 temperature = int(input("Input temperature: "))
+# Create a variable for storing data from the input
 temp = (temperature * 9/5) + 32
 
 print(temp)
