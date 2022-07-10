@@ -38,3 +38,4 @@ new_list = []
 #         print(i)
 
 # Formula = (60°C × 9/5) + 32 = 140°F
+# Temperature converter from celcius to farenheit
