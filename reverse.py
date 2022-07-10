@@ -37,3 +37,4 @@ new_list = []
 #     if i % 5==0 and i % 7==0:
 #         print(i)
 
+# Formula = (60°C × 9/5) + 32 = 140°F
