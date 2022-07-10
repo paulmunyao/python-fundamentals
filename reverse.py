@@ -38,6 +38,7 @@
 #     if i % 5==0 and i % 7==0:
 #         print(i)
 
+
 # Formula for converting degrees to farenheit= (°C × 9/5) + 32 = 140°F
 #Formula for converting farenheit to degrees (°F − 32) × 5/9 = °C
 # create a variable for temperature input
