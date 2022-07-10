@@ -16,9 +16,9 @@
 # new_list = []
 # iterating through the original list which had been created initially
 # for new in list1:
-    # using insert method to insert the new item into the new list
-    # new_list.insert(0,new)
-    # print(new_list)
+# using insert method to insert the new item into the new list
+# new_list.insert(0,new)
+# print(new_list)
 
 # Reversing a list using a while loop
 # Create a new list
@@ -27,9 +27,9 @@
 # list2=[]
 # length=len(list1)
 # while length > 0:
-    # add list1 to list2 using append function
-    # list2.append(list1[length-1])
-    # length = length - 1
+# add list1 to list2 using append function
+# list2.append(list1[length-1])
+# length = length - 1
 # print(list2)
 
 # # create a for loop with a range
@@ -40,15 +40,12 @@
 
 
 # Formula for converting degrees to farenheit= (°C × 9/5) + 32 = 140°F
-#Formula for converting farenheit to degrees (°F − 32) × 5/9 = °C
+# Formula for converting farenheit to degrees (°F − 32) × 5/9 = °C
 # create a variable for temperature input
 temperature = int(input("Input temperature: "))
 # Create a variable for storing data from the input
 while(True):
-    
-temp = (temperature * 9/5) + 32
+    if temperature == 0:
+        print("Input a valid number")
+        temp = (temperature * 9/5) + 32
 print(temp)
-
-
-
-
