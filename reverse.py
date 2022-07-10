@@ -43,8 +43,15 @@
 # Formula for converting farenheit to degrees (°F − 32) × 5/9 = °C
 # create a variable for temperature input
 print("Hi stranger")
-user = str(input("Do you want Celsius or Farenheit"))
-temperature = int(input("Kindly input temperature: "))
+user = str(input("Do you want Celsius or Farenheit: "))
+Celsius = user
+Farenheit = user
+if user == Celsius or user == Farenheit:
+
+
+    
+
+    temperature = int(input("Kindly input temperature: "))
 # Create a variable for storing data from the input the input will be converted using a formula
-temp = (temperature * 9/5) + 32
-print(temp)
+    temp = (temperature * 9/5) + 32
+    print(temp)
