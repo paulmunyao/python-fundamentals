@@ -60,7 +60,7 @@ Celsius = (temperature * 9/5) + 32
 Farenheit = (temperature - 32) * 5/9
 if convert == Celsius:
     print(Celsius)
-
-else:
+elif convert == Farenheit:
     print(Farenheit)
-
+# else:
+#     print("Try again later")
