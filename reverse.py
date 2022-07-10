@@ -44,9 +44,7 @@
 # create a variable for temperature input
 print("Hi stranger")
 user = str(input("Do you want Celsius or Farenheit: "))
-Celsius = str(user)
-Farenheit = str(user)
-if user == Celsius:
+if user == user:
     temperature = int(input("Kindly input temperature: "))
 # Create a variable for storing data from the input the input will be converted using a formula
     temp = (temperature * 9/5) + 32
