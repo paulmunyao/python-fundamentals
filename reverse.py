@@ -44,6 +44,8 @@
 # create a variable for temperature input
 temperature = int(input("Input temperature: "))
 # Create a variable for storing data from the input
+while(True):
+    
 temp = (temperature * 9/5) + 32
 print(temp)
 
