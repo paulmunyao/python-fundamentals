@@ -31,6 +31,6 @@ new_list = []
     # length = length - 1
 # print(list2)
 
-create a for loop with a range
+# create a for loop with a range
 for i in range(1500,2700):
-    # if i % 5 and i % 7:
+    if i % 5 and i % 7:
