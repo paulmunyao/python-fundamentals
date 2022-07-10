@@ -49,3 +49,5 @@ temp = (temperature * 9/5) + 32
 print(temp)
 
 temperature = int(input("Kindly input temperature: "))
+faren = (temperature - 32) * 5/9
+print(faren)
