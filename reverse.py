@@ -41,6 +41,7 @@
 # Formula for converting degrees to farenheit= (°C × 9/5) + 32 = 140°F
 #Formula for converting farenheit to degrees (°F − 32) × 5/9 = °C
 
+temperature = int(input("Input temperature"))
 
 
 
