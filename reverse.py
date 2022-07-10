@@ -33,5 +33,6 @@ new_list = []
 
 # create a for loop with a range
 for i in range(1500,2700,1):
+    # iterate over the list
     if i % 5==0 and i % 7==0:
         print(i)
