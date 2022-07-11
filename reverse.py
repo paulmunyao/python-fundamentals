@@ -55,12 +55,11 @@
 
 print("Hi stranger")
 convert = str(input("Celsius or Farenheit: "))
-temperature = int(input("Kindly input temperature: "))
-Celsius = (temperature * 9/5) + 32
-Farenheit = (temperature - 32) * 5/9
 if convert == Celsius:
+    temperature = int(input("Kindly input temperature: "))
+    Celsius = (temperature * 9/5) + 32
     print(Celsius)
 elif convert == Farenheit:
+    temperature = int(input("Kindly input temperature: "))
+    Farenheit = (temperature - 32) * 5/9
     print(Farenheit)
-# else:
-#     print("Try again later")
