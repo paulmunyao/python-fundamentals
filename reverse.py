@@ -53,14 +53,28 @@
 # print(faren)
 
 
-print("Hi stranger")
-convert = str(input("Celsius or Farenheit: "))
+# print("Hi stranger")
+# convert = str(input("Celsius or Farenheit: "))
+# Celsius = convert
+# Farenheit = convert
+# if convert == Celsius:
+#     temperature = int(input("Kindly input temperature: "))
+#     Celsius = (temperature * 9/5) + 32
+#     print(Celsius)
+# elif convert == Farenheit:
+#     temperature = int(input("Kindly input temperature: "))
+#     Farenheit = (temperature - 32) * 5/9
+#     print(Farenheit)
 
-if convert == Celsius:
-    temperature = int(input("Kindly input temperature: "))
-    Celsius = (temperature * 9/5) + 32
-    print(Celsius)
-elif convert == Farenheit:
-    temperature = int(input("Kindly input temperature: "))
-    Farenheit = (temperature - 32) * 5/9
-    print(Farenheit)
+
+print("Enter 1 to change temperature from Fahrenheit to Celsius")
+print("Enter 2 to change temperature from Celsius to Fahrenheit")
+ch = int(input(""))
+if ch==1:
+    ut= float(input("Enter Temperature in Fahrenheit: " ))
+    ct=(ut-32)/1.8
+    print(ct,"C")
+if ch==2:
+    ut= float(input("Enter Temperature in Celsius: " ))
+    ct=(1.8*ut)+32
+    print(ct,"F")
