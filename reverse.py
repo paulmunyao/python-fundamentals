@@ -39,24 +39,23 @@
 #         print(i)
 
 
-# Formula for converting degrees to farenheit= (°C × 9/5) + 32 = 140°F
-# Formula for converting farenheit to degrees (°F − 32) × 5/9 = °C
-# create a variable for temperature input
-print("Hi stranger")
-temperature = int(input("Kindly input temperature: "))
-# # Create a variable for storing data from the input the input will be converted using a formula
-temp = (temperature * 9/5) + 32
-print(temp)
+# # Formula for converting degrees to farenheit= (°C × 9/5) + 32 = 140°F
+# # Formula for converting farenheit to degrees (°F − 32) × 5/9 = °C
+# # create a variable for temperature input
+# print("Hi stranger")
+# temperature = int(input("Kindly input temperature: "))
+# # # Create a variable for storing data from the input the input will be converted using a formula
+# temp = (temperature * 9/5) + 32
+# print(temp)
 
-temperature = int(input("Kindly input temperature: "))
-faren = (temperature - 32) * 5/9
-print(faren)
+# # temperature = int(input("Kindly input temperature: "))
+# # faren = (temperature - 32) * 5/9
+# # print(faren)
 
 
 
-print = ("Cel or Faren: ")
+print("Cel or Faren: ")
 convert = str(input(""))
-
 if convert == Cel:
     temperature = int(input("Kindly input temperature: "))
     Cel = (temperature * 9/5) + 32
