@@ -42,39 +42,39 @@
 # Formula for converting degrees to farenheit= (°C × 9/5) + 32 = 140°F
 # Formula for converting farenheit to degrees (°F − 32) × 5/9 = °C
 # create a variable for temperature input
-# print("Hi stranger")
-# temperature = int(input("Kindly input temperature: "))
+print("Hi stranger")
+temperature = int(input("Kindly input temperature: "))
 # # Create a variable for storing data from the input the input will be converted using a formula
-# temp = (temperature * 9/5) + 32
-# print(temp)
+temp = (temperature * 9/5) + 32
+print(temp)
 
-# temperature = int(input("Kindly input temperature: "))
-# faren = (temperature - 32) * 5/9
-# print(faren)
-
-
-# print("Hi stranger")
-# convert = str(input("Celsius or Farenheit: "))
-# Celsius = convert
-# Farenheit = convert
-# if convert == Celsius:
-#     temperature = int(input("Kindly input temperature: "))
-#     Celsius = (temperature * 9/5) + 32
-#     print(Celsius)
-# elif convert == Farenheit:
-#     temperature = int(input("Kindly input temperature: "))
-#     Farenheit = (temperature - 32) * 5/9
-#     print(Farenheit)
+temperature = int(input("Kindly input temperature: "))
+faren = (temperature - 32) * 5/9
+print(faren)
 
 
-print("Enter 1 to change temperature from Fahrenheit to Celsius")
-print("Enter 2 to change temperature from Celsius to Fahrenheit")
-ch = int(input(""))
-if ch==1:
-    ut= float(input("Enter Temperature in Fahrenheit: " ))
-    ct=(ut-32)/1.8
-    print(ct,"C")
-if ch==2:
-    ut= float(input("Enter Temperature in Celsius: " ))
-    ct=(1.8*ut)+32
-    print(ct,"F")
+
+print = ("Cel or Faren: ")
+convert = str(input(""))
+
+if convert == Cel:
+    temperature = int(input("Kindly input temperature: "))
+    Cel = (temperature * 9/5) + 32
+    print(Cel)
+elif convert == Farenheit:
+    temperature = int(input("Kindly input temperature: "))
+    Faren = (temperature - 32) * 5/9
+    print(Faren)
+
+
+# print("Enter 1 to change temperature from Fahrenheit to Celsius")
+# print("Enter 2 to change temperature from Celsius to Fahrenheit")
+# ch = int(input(""))
+# if ch==1:
+#     ut= float(input("Enter Temperature in Fahrenheit: " ))
+#     ct=(ut-32)/1.8
+#     print(ct,"C")
+# if ch==2:
+#     ut= float(input("Enter Temperature in Celsius: " ))
+#     ct=(1.8*ut)+32
+#     print(ct,"F")
