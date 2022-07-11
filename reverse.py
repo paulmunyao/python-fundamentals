@@ -55,6 +55,7 @@
 
 print("Hi stranger")
 convert = str(input("Celsius or Farenheit: "))
+
 if convert == Celsius:
     temperature = int(input("Kindly input temperature: "))
     Celsius = (temperature * 9/5) + 32
