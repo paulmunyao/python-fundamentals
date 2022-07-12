@@ -87,7 +87,7 @@
             # return binarySearch(array, x, mid + 1, high)
 
     # else:
-        return -1
+        # return -1
 
 
 array = [3, 4, 5, 6, 7, 8, 9]
