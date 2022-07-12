@@ -119,7 +119,7 @@
         # else:
             # return binarySearch(array, x, mid + 1, high)
 
-    else:
+    # else:
         return -1
 
 
