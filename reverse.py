@@ -84,9 +84,9 @@ def binarySearch(array, x, low, high):
         elif array[mid] > x:
             return binarySearch(array, x, low, mid-1)
 
-        # # Search the right half
-        # else:
-        #     return binarySearch(array, x, mid + 1, high)
+        # Search the right half
+        else:
+            return binarySearch(array, x, mid + 1, high)
 
     # else:
     #     return -1
