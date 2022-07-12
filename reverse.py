@@ -68,7 +68,7 @@
 
 
 # Binary Search in python using iterative method
-def binarySearch(array, x, low, high):
+# def binarySearch(array, x, low, high):
 
     if high >= low:
 
@@ -101,8 +101,6 @@ else:
     print("Not found")
 
 # Binary Search in python using recursion method
-
-
 def binarySearch(array, x, low, high):
 
     if high >= low:
