@@ -109,7 +109,7 @@
 
         # If found at mid, then return it
         # if array[mid] == x:
-            return mid
+            # return mid
 
         # Search the left half
         elif array[mid] > x:
