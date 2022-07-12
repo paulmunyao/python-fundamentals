@@ -72,7 +72,7 @@
 
     # if high >= low:
 
-        mid = low + (high - low)//2
+        # mid = low + (high - low)//2
 
         # If found at mid, then return it
         if array[mid] == x:
