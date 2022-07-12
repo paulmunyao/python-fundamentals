@@ -117,7 +117,7 @@
 
         # Search the right half
         # else:
-            return binarySearch(array, x, mid + 1, high)
+            # return binarySearch(array, x, mid + 1, high)
 
     else:
         return -1
