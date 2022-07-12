@@ -70,7 +70,7 @@
 # Binary Search in python using iterative method
 # def binarySearch(array, x, low, high):
 
-    if high >= low:
+    # if high >= low:
 
         mid = low + (high - low)//2
 
