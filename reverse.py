@@ -67,7 +67,7 @@
 #     print(ct,"F")
 
 
-# Binary Search in python using 
+# Binary Search in python using iterative
 
 
 def binarySearch(array, x, low, high):
