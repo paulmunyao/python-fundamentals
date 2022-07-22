@@ -115,7 +115,7 @@
         elif array[mid] > x:
             return binarySearch(array, x, low, mid-1)
 
-        Search the right half
+        # Search the right half
         # else:
             # return binarySearch(array, x, mid + 1, high)
 
