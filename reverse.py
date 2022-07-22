@@ -103,24 +103,24 @@
 # Binary Search in python using recursion method
 # def binarySearch(array, x, low, high):
 
-    # if high >= low:
+    if high >= low:
 
-        # mid = low + (high - low)//2
+        mid = low + (high - low)//2
 
-        # If found at mid, then return it
-        # if array[mid] == x:
-            # return mid
+        If found at mid, then return it
+        if array[mid] == x:
+            return mid
 
-        # Search the left half
-        # elif array[mid] > x:
-            # return binarySearch(array, x, low, mid-1)
+        Search the left half
+        elif array[mid] > x:
+            return binarySearch(array, x, low, mid-1)
 
-        # Search the right half
-        # else:
-            # return binarySearch(array, x, mid + 1, high)
+        Search the right half
+        else:
+            return binarySearch(array, x, mid + 1, high)
 
-    # else:
-        # return -1
+    else:
+        return -1
 
 
 # array = [3, 4, 5, 6, 7, 8, 9]
