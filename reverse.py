@@ -107,7 +107,7 @@
 
         mid = low + (high - low)//2
 
-        If found at mid, then return it
+        # If found at mid, then return it
         # if array[mid] == x:
             # return mid
 
