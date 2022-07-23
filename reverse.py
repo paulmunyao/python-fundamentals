@@ -5,7 +5,7 @@
 # print(list(reversed(list1)))- For the list to appear as a list
 # using a for loop to iterate through the list
 # for new in reversed(list):
- print(new(list))
+#  print(new(list))
 
 Reversing using a for loop
 create a list of integers
