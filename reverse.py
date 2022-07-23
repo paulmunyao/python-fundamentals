@@ -18,7 +18,7 @@
 # for new in list1:
 # using insert method to insert the new item into the new list
 # new_list.insert(0,new)
-print(new_list)
+# print(new_list)
 
 Reversing a list using a while loop
 Create a new list
