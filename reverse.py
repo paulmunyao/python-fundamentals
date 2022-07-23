@@ -36,7 +36,7 @@
 # for i in range(1500,2700):
     # iterate over the list
     # if i % 5==0 and i % 7==0:
-        print(i)
+        # print(i)
 
 
 # Formula for converting degrees to farenheit= (°C × 9/5) + 32 = 140°F
