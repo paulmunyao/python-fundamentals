@@ -16,7 +16,7 @@
 # new_list = []
 # iterating through the original list which had been created initially
 # for new in list1:
-using insert method to insert the new item into the new list
+# using insert method to insert the new item into the new list
 new_list.insert(0,new)
 print(new_list)
 
