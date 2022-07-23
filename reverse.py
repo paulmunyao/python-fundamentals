@@ -12,7 +12,7 @@
 # list1 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
 # Print the list
 # print(list1)
-Create an empty list
+# Create an empty list
 new_list = []
 iterating through the original list which had been created initially
 for new in list1:
