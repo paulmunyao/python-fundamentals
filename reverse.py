@@ -21,7 +21,7 @@
 # print(new_list)
 
 # Reversing a list using a while loop
-Create a new list
+# Create a new list
 list1= [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
 Create a new empty list
 list2=[]
