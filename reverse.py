@@ -55,7 +55,7 @@ print(temp)
 
 
 # print("Enter 1 to change temperature from Fahrenheit to Celsius")
-print("Enter 2 to change temperature from Celsius to Fahrenheit")
+# print("Enter 2 to change temperature from Celsius to Fahrenheit")
 ch = int(input(""))
 if ch==1:
     ut= float(input("Enter Temperature in Fahrenheit: " ))
