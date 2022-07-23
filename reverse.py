@@ -14,7 +14,7 @@
 # print(list1)
 # Create an empty list
 # new_list = []
-iterating through the original list which had been created initially
+# iterating through the original list which had been created initially
 for new in list1:
 using insert method to insert the new item into the new list
 new_list.insert(0,new)
