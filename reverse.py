@@ -7,7 +7,7 @@
 # for new in reversed(list):
 #  print(new(list))
 
-Reversing using a for loop
+# Reversing using a for loop
 create a list of integers
 list1 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
 Print the list
