@@ -25,7 +25,7 @@
 # list1= [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
 # Create a new empty list
 # list2=[]
-length=len(list1)
+# length=len(list1)
 while length > 0:
 add list1 to list2 using append function
 list2.append(list1[length-1])
