@@ -35,7 +35,7 @@
 # create a for loop with a range
 # for i in range(1500,2700):
     # iterate over the list
-    if i % 5==0 and i % 7==0:
+    # if i % 5==0 and i % 7==0:
         print(i)
 
 
