@@ -101,7 +101,7 @@ print(temp)
     # print("Not found")
 
 # Binary Search in python using recursion method
-def binarySearch(array, x, low, high):
+# def binarySearch(array, x, low, high):
 
     if high >= low:
 
