@@ -75,7 +75,7 @@ print(temp)
         # mid = low + (high - low)//2
 
         # If found at mid, then return it
-        if array[mid] == x:
+        # if array[mid] == x:
             return mid
 
         Search the left half
