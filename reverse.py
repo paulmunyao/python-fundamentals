@@ -84,9 +84,9 @@ print(temp)
 
         # Search the right half
         # else:
-            return binarySearch(array, x, mid + 1, high)
+            # return binarySearch(array, x, mid + 1, high)
 
-    else:
+    # else:
         return -1
 
 
