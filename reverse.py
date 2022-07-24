@@ -130,6 +130,6 @@ print(temp)
 
 # if result != -1:
     # print("Element is present at index " + str(result))
-else:
+# else:
     print("Not found")
 
