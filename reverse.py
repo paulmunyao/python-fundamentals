@@ -83,7 +83,7 @@ print(temp)
             # return binarySearch(array, x, low, mid-1)
 
         # Search the right half
-        else:
+        # else:
             return binarySearch(array, x, mid + 1, high)
 
     else:
