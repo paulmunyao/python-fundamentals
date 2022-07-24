@@ -98,7 +98,7 @@ print(temp)
 # if result != -1:
     # print("Element is present at index " + str(result))
 # else:
-    print("Not found")
+    # print("Not found")
 
 Binary Search in python using recursion method
 def binarySearch(array, x, low, high):
