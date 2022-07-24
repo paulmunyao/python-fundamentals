@@ -67,7 +67,7 @@ print(temp)
     # print(ct,"F")
 
 
-Binary Search in python using iterative method
+# Binary Search in python using iterative method
 def binarySearch(array, x, low, high):
 
     if high >= low:
