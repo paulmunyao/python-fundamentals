@@ -76,4 +76,4 @@ list = ['450 g long grain white rice, preferably basmati', '75 ml vegetable oil'
 new_dict = list.values()
 new_value = dict(new_dict)
 
-
+print(new_value)
