@@ -77,5 +77,5 @@
 
 # print(dictOfWords)
 
-
+listOfStr = ["hello", "at" , "test" , "this" , "here" , "now" ]
 dictOfWords = { i : listOfStr[i] for i in range(0, len(listOfStr) ) }
