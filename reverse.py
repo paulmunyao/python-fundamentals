@@ -44,8 +44,8 @@
 # create a variable for temperature input
 # print("Hi stranger")
 # temperature = int(input("Kindly input temperature: "))
-# # Create a variable for storing data from the input the input will be converted using a formula
-# 
+# Create a variable for storing data from the input the input will be converted using a formula
+
 
 # temperature = int(input("Kindly input temperature: "))
 # faren = (temperature - 32) * 5/9
