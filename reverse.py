@@ -84,6 +84,7 @@ list = ['450 g long grain white rice, preferably basmati',
         '1 tsp ground green or white cardamom seeds  (optional)',
         'salt and pepper']
 
-ingredients = {i: list[i] for i in range(0, len(list))}
+# ingredients = {i: list[i] for i in range(0, len(list))}
 
-print(ingredients)
+# print(ingredients)
+
