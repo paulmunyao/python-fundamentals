@@ -77,4 +77,3 @@ dictOfWords = { i : list[i] for i in range(0, len(list) )}
 
 print(dictOfWords)
 
-print('Paul \n Munyao')
