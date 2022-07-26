@@ -67,4 +67,4 @@ print(temp)
     # print(ct,"F")
 
 
-# 
+#converting a list to a dictionary
