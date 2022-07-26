@@ -73,3 +73,4 @@ def convert(dict):
     list = ['450 g long grain white rice, preferably basmati', '75 ml vegetable oil', '2 medium onions, chopped', '1 medium chicken or 700â€“900 g lamb on the bone cut in pieces', '570 ml water, plus 110 ml water', 'peel of 1 large orange', '50 g sugar',
             '50 g blanched and flaked almonds', '50 g blanched and flaked pistachios', 'Â½ tsp saffron or egg yellow food colour  (optional)', '25 ml rosewater (optional)', '1 tsp ground green or white cardamom seeds  (optional)', 'salt and pepper']
 print(list)
+convert(list)
