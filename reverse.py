@@ -34,9 +34,9 @@
 
 # create a for loop with a range
 # for i in range(1500,2700):
-    # iterate over the list
-    # if i % 5==0 and i % 7==0:
-        # print(i)
+# iterate over the list
+# if i % 5==0 and i % 7==0:
+# print(i)
 
 
 # Formula for converting degrees to farenheit= (°C × 9/5) + 32 = 140°F
@@ -53,20 +53,20 @@ print(temp)
 # print(faren)
 
 
-
 # print("Enter 1 to change temperature from Fahrenheit to Celsius")
 # print("Enter 2 to change temperature from Celsius to Fahrenheit")
 # ch = int(input(""))
 # if ch==1:
-    # ut= float(input("Enter Temperature in Fahrenheit: " ))
-    # ct=(ut-32)/1.8
-    # print(ct,"C")
+# ut= float(input("Enter Temperature in Fahrenheit: " ))
+# ct=(ut-32)/1.8
+# print(ct,"C")
 # if ch==2:
-    # ut= float(input("Enter Temperature in Celsius: " ))
-    # ct=(1.8*ut)+32
-    # print(ct,"F")
+# ut= float(input("Enter Temperature in Celsius: " ))
+# ct=(1.8*ut)+32
+# print(ct,"F")
 
 
-#converting a list to a dictionary
-#create a list of ingredients 
-list =  ['450 g long grain white rice, preferably basmati', '75 ml vegetable oil', '2 medium onions, chopped','1 medium chicken or 700â€“900 g lamb on the bone cut in pieces','570 ml water, plus 110 ml water','peel of 1 large orange','50 g sugar', '50 g blanched and flaked almonds','50 g blanched and flaked pistachios','Â½ tsp saffron or egg yellow food colour  (optional)','25 ml rosewater (optional)', '1 tsp ground green or white cardamom seeds  (optional)','salt and pepper']
+# converting a list to a dictionary
+# create a list of ingredients
+list = ['450 g long grain white rice, preferably basmati', '75 ml vegetable oil', '2 medium onions, chopped', '1 medium chicken or 700â€“900 g lamb on the bone cut in pieces', '570 ml water, plus 110 ml water', 'peel of 1 large orange', '50 g sugar',
+        '50 g blanched and flaked almonds', '50 g blanched and flaked pistachios', 'Â½ tsp saffron or egg yellow food colour  (optional)', '25 ml rosewater (optional)', '1 tsp ground green or white cardamom seeds  (optional)', 'salt and pepper']
