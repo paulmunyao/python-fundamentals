@@ -88,3 +88,6 @@ list = ['450 g long grain white rice, preferably basmati',
 
 # print(ingredients)
 
+new_dict = list()
+
+print(new_dict)
