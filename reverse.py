@@ -70,4 +70,4 @@ print(temp)
 #converting a list to a dictionary
 #create a list of ingredients
  
-list =  ['450 g long grain white rice, preferably basmati',]
+list =  ['450 g long grain white rice, preferably basmati', '75 ml vegetable oil', '2 medium onions, chopped',]
