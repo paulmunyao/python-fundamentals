@@ -75,6 +75,5 @@ list = ['450 g long grain white rice, preferably basmati','75 ml vegetable oil',
 
 dictOfWords = { i : list[i] for i in range(0, len(list) )}
 
-new = dictOfWords + "\n"
-print(new)
+print(dictOfWords)
 
