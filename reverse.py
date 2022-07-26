@@ -71,7 +71,7 @@
 #         '50 g blanched and flaked almonds', '50 g blanched and flaked pistachios', 'Â½ tsp saffron or egg yellow food colour  (optional)', '25 ml rosewater (optional)', '1 tsp ground green or white cardamom seeds  (optional)', 'salt and pepper']
 
 
-def hello():
+# def hello():
     print("Hello, World!")
 
 hello()
