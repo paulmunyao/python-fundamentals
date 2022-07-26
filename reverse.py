@@ -78,3 +78,4 @@
 # print(dictOfWords)
 
 
+dictOfWords = { i : listOfStr[i] for i in range(0, len(listOfStr) ) }
